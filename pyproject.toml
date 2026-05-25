@@ -1,0 +1,7 @@
+[project]
+name = "life-flow"
+version = "0.1.0"
+description = "A consumer-facing AI-powered personal organization app that automatically transforms messy, unstructured information into structured, actionable workflows."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

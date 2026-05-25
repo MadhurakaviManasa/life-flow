@@ -1,0 +1,1 @@
+A consumer-facing AI-powered personal organization app that automatically transforms messy, unstructured information into structured, actionable workflows
